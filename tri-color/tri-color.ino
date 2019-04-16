@@ -1,7 +1,7 @@
 //Pin variables
-int redPin = 6;
+int redPin = 3;
 int greenPin = 5;
-int bluePin = 3;
+int bluePin = 6;
 
 //Color variables
 int red = 255;
